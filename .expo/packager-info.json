@@ -1,7 +1,9 @@
 {
   "expoServerNgrokUrl": "https://ez-eat.anonymous.meals-project.exp.direct",
   "packagerNgrokUrl": "https://ez-eat.anonymous.meals-project.exp.direct",
-  "ngrokPid": 34192,
+  "ngrokPid": 41452,
   "expoServerPort": 19000,
-  "packagerPort": 19000
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "webpackServerPort": null
 }
